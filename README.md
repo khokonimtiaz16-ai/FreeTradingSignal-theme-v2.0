@@ -1,0 +1,1 @@
+# FreeTradingSignal-theme-v2.0
