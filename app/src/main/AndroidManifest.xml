@@ -9,7 +9,7 @@
         android:label="IMI 2.0 trading"
         android:roundIcon="@drawable/ic_launcher"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FreeTradingSignal">
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true">
