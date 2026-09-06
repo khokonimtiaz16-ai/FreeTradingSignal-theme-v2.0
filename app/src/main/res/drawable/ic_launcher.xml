@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Dark Theme Background -->
+    <path
+        android:fillColor="#131722"
+        android:pathData="M0,0h512v512h-512z"/>
+
+    <!-- Outer Tech Circle / AI Ring -->
+    <path
+        android:strokeColor="#00F2FE"
+        android:strokeWidth="6"
+        android:pathData="M256,40 A216,216 0 1,0 256,472 A216,216 0 1,0 256,40"/>
+
+    <!-- Neural Circuit Lines forming Bull Horns -->
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="8"
+        android:pathData="M140,160 L200,220 L256,180 L312,220 L372,160"/>
+
+    <!-- Geometric Bull Head Contour -->
+    <path
+        android:fillColor="#1E222D"
+        android:strokeColor="#00F2FE"
+        android:strokeWidth="4"
+        android:pathData="M180,220 L332,220 L310,360 L256,400 L202,360 Z"/>
+
+    <!-- Glowing Signal Eyes -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M210,260 h30 v10 h-30 z M272,260 h30 v10 h-30 z"/>
+
+    <!-- "IMI" Branding on the Bull -->
+    <!-- Letter I -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M220,300 h8 v35 h-8 z"/>
+    <!-- Letter M -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M236,300 h8 l8,20 l8,-20 h8 v35 h-7 v-22 l-7,18 h-4 l-7,-18 v22 h-7 z"/>
+    <!-- Letter I -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M284,300 h8 v35 h-8 z"/>
+</vector>
