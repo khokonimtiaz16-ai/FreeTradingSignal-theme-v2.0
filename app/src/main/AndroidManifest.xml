@@ -6,7 +6,7 @@
     <application
         android:allowBackup="true"
         android:icon="@android:drawable/sym_def_app_icon"
-        android:label="Free Trading Signal"
+        android:label="IMI 2.0 trading"
         android:roundIcon="@android:drawable/sym_def_app_icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.FreeTradingSignal">
