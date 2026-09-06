@@ -4,6 +4,11 @@ plugins {
 }
 
 android {
+    // ...
+    androidResources {
+        noCompress += "tflite"
+    }
+}
     namespace = "com.example.freetradingsignal"
     compileSdk = 34
 
